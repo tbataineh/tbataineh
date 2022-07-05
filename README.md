@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @tbataineh
-- 👀 I’m interested in codeing
+- 👀 I’m interested in datascience 
 - 🌱 I’m currently learning Python and R 
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me on tamer.bataineh@hotmail.com
 
 <!---
